@@ -1,2 +1,2 @@
 # AWS
-Sharing working ideas and learnings on AWS Cloud 
+Sharing ideas and learnings on AWS Cloud 
